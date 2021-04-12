@@ -261,9 +261,9 @@ h6 {
     -webkit-transform: translate3d(0px, -100%, 0px);
     -ms-transform: translate3d(0px, -100%, 0px);
     transform: translate3d(0px, -100%, 0px);
-    -webkit-transform: all 0.3s ease 0s;
-    -ms-transform: all 0.3s ease 0s;
-    transform: all 0.3s ease 0s;
+    -webkit-transform: all 0.3s ease 0.3s;
+    -ms-transform: all 0.3s ease 0.3s;
+    transform: all 0.3s ease 0.3s;
   }
   .menu_body.active {
     -webkit-transform: translate3d(0px, 0px, 0px);
@@ -320,9 +320,9 @@ h6 {
     z-index: 5;
   }
   .icon-menu span {
-    -webkit-transform: all 0.3s ease 0s;
-    -ms-transform: all 0.3s ease 0s;
-    transform: all 0.3s ease 0s;
+    -webkit-transform: all 0.3s ease 0.3s;
+    -ms-transform: all 0.3s ease 0.3s;
+    transform: all 0.3s ease 0.3s;
     top: 8px;
     left: 0px;
     position: absolute;
@@ -641,9 +641,9 @@ h6 {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-transform: all 0.3s ease 0s;
-  -ms-transform: all 0.3s ease 0s;
-  transform: all 0.3s ease 0s;
+  -webkit-transform: all 0.3s ease 0.3s;
+  -ms-transform: all 0.3s ease 0.3s;
+  transform: all 0.3s ease 0.3s;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
